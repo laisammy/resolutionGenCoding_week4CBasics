@@ -36,6 +36,7 @@ int main() {
     }
 
     printf("Answer: %lf\n", answer);
+    
     printf("\nPress Enter to exit...");
     while (getchar() != '\n');
     getchar();
