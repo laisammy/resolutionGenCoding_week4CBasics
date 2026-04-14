@@ -1,5 +1,5 @@
 # Calculator & Word Counter
 ## Made for Hack Club's Resolution General Coding Week 4
-This repository contains 2 programs written in C.
-The calculator program can compute simple arithmetic operations by inputting 2 numbers and the wanted operator. It also has error handling to prevent invalid inputs.
-The word counter program can count the number of lines and words in a file.
+This repository contains two programs written in C.
+The calculator performs basic arithmetic operations using two user‑provided numbers and an operator, with input validation to prevent invalid entries.
+The word counter reads a text file and reports the total number of lines and words it contains.
